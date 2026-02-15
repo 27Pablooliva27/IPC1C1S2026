@@ -6,5 +6,6 @@ Bienvenido al repositorio del laboratorio. Aquí encontrarás ejemplos y recurso
 
 | Carpeta | Descripción | Enlace |
 |---------|-------------|--------|
-| Git  | Ejemplos de Git y GitHub desde consola | [Git](./Ejemplos/Git/README.md) |
-| JAVA | Ejemplos en Java | [JAVA](./Ejemplos/Git/JAVA/README.md) |
+| Git  | Ejemplos de Git y GitHub desde consola | [Abrir carpeta](./Ejemplos/Git/) |
+| JAVA | Ejemplos en Java | [Abrir carpeta](./Ejemplos/JAVA/) |
+
