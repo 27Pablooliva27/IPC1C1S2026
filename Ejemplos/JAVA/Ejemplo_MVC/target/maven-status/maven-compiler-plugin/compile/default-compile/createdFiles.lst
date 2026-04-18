@@ -1,0 +1,13 @@
+Modelo\Usuario.class
+Vista\RegistroInstructorView.class
+Modelo\Administrador.class
+Main.class
+Modelo\Estudiante.class
+Controlador\RegistroController.class
+Modelo\UsuarioDAO.class
+Vista\RegistroEstudianteView.class
+Modelo\Instructor.class
+Vista\AdminView.class
+Controlador\AdminController.class
+Controlador\LoginController.class
+Vista\LoginView.class
